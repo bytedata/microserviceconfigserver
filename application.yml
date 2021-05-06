@@ -1,8 +1,8 @@
 my:
-  greetings: Hello Krish, this is from config server
+  greetings: Hello microservice, this is from config server
   list:
-    values: "one,two,three,four"
+    values: "apple,banana,greaps,watermelon"
 db:
-  connection: test-connection-string-here-from-config-server
-  host:  129.0.0.1
-  port:  2400
+  connection: test-connection-from-config-server
+  host:  128.0.0.1
+  port:  2000
