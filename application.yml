@@ -3,6 +3,6 @@ my:
   list:
     values: "one,two,three,four"
 db:
-  connection: test-connection-string-here from config server
+  connection: test-connection-string-here-from-config-server
   host:  129.0.0.1
   port:  2400
