@@ -1,5 +1,5 @@
 my:
-  greetings: Hello microservice, this is from config server
+  greetings: Updated message Hello microservice, this is from config server
   list:
     values: "apple,banana,graps,watermelon"
 db:
