@@ -6,3 +6,10 @@ db:
   connection: test-connection-from-config-server
   host:  128.0.0.1
   port:  2000
+emp:
+  permanentAddress:  e bay
+  dlNo:  11118888
+  passNo:  22228888
+  adhaarNo:  44448888
+  ecNo:  55558888
+  panNo:  66668888
